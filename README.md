@@ -1,5 +1,8 @@
 # N I C E
 
+
+# NICE
+
 # Palindrome Syndrome
 
 ### Introduction
